@@ -18,9 +18,9 @@
 
 ## :telephone:	Мои контакты 
 
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" width="30" height="30" > : <link hsref="https://t.me/Kaleon612">https://t.me/Kaleon612
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" width="20" height="20" > : <link hsref="https://t.me/Kaleon612">https://t.me/Kaleon612
 
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" width="30" height="30" > : Kaleon612@gmail.com 
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" width="20" height="20" > : Kaleon612@gmail.com 
 
 ## :abacus:	 Моя статистика 
 
