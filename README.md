@@ -1,6 +1,6 @@
 ### Привет👋
 
-Меня зовут Катерина. Я начинаюзий frontend-разработчик, жадный до новых знаний. Совсем недавно я закончила курсы от Яндекс.Практикума. Большинство репозиториев в моем профиле связано непосредственно с этими курсами, но только пока! Сейчас я в поиске интересныйх предложений для пет-проектов, а также постоянной работы. 
+Меня зовут Катерина. Я начинаюзий frontend-разработчик, жадный до новых знаний. Сейчас я в поиске интересныйх предложений для пет-проектов, а также постоянной работы. 
 
 ## :toolbox:	Мой стек: 
 
@@ -15,6 +15,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="20" height="20"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="20" height="20"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="20" height="20"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="20" height="20" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Storybook" alt="Storybook" width="20" height="20" />
+
 
 ## :telephone:	Мои контакты 
 
