@@ -16,7 +16,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="20" height="20"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="20" height="20"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="20" height="20" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Storybook" alt="Storybook" width="20" height="20" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original-wordmark.svg" title="Storybook" alt="Storybook" width="20" height="20" />
 
 
 ## :telephone:	Мои контакты 
